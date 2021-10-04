@@ -3,7 +3,9 @@
 {% block content %}
     {% load plotly_dash %}
 <h1> my first python dash app ( Converter log graph )</h1>
-
+    <div class="{% plotly_class name='mydash' %} card" style="height: 100%; width: 100%">
+    {% plotly_app name='mydash' ratio=0.45 %}
+    </div>
 
 <br>
 

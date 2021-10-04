@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1529cfd4-c7b7-435b-b517-29a249f70f41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home/finished_apps/Converter_Data_Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash_django/django_dash/dash_app_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash_django/django_dash/routing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash_django/templates/dash_plot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash_django/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_prac/mysite/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/finished_apps/Converter_Data_Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/finished_apps/Converter_Data_Graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/mydash.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/mydash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

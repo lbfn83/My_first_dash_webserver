@@ -9,12 +9,12 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import json
-import _help_export_to_file
+
 import plotly
 
 #app = dash.Dash()
 
-app = DjangoDash('Converter_Data_Graph')
+app = DjangoDash('mydash')
 
 graph_names = ["foo", "bar", "baz"]
 
